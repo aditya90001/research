@@ -1,0 +1,39 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+
+langgraph
+
+
+tavily-python
+
+python-dotenv
+
+requests
+beautifulsoup4
+lxml
+
+typing-extensions
+aiohttp
+
+# Data handling (optional but useful in pipelines)
+pandas
+
+# Token counting / text utils
+tiktoken
+
+# Logging / debugging (optional but recommended)
+rich
+
+# Retry + robustness
+tenacity
+
+# JSON handling improvements
+orjson
+
+# Typing support (helps in bigger projects)
+pydantic
+
+# Optional (for advanced parsing / HTML cleanup)
+html5lib
